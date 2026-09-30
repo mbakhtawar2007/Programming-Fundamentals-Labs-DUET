@@ -36,7 +36,7 @@ Programming Findamentals/
     ├── Excercise 02/main.cpp
     ├── Excercise 03/main.cpp
     ├── Excercise 04/main.cpp
-    └── Excercise 05/main.cpp
+    
 ```
 
 > Folder names are shown as they currently appear in the repository.
